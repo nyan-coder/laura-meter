@@ -1,5 +1,5 @@
 # aura-meter
-<img width="500" height="500" alt="Design sem nome" src="https://github.com/user-attachments/assets/c387ad27-c9c3-4154-98f7-ff5d1beb1f0c" />
+<img width="500" height="500" alt="Design sem nome" src="https://github.com/nyan-coder/laura-meter/blob/main/laura.png?raw=true" />
 
 Aura Meter is a simple python script that reads a list and says if the person has aura or not, it reads "zero_aura_list"
 
